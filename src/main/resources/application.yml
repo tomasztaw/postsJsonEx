@@ -17,3 +17,7 @@ spring:
     graphiql:
       enabled: true
 
+  data:
+    jpa:
+      repositories:
+        enabled: true
